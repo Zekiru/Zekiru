@@ -6,33 +6,6 @@
   - ⚙️ Has some knowledge and experience in developing **Web, Desktop, Mobile and Game _Applications_**.
 
 
-
-# Experience 🗂️
-  
-  ### Programming Languages
-  - JavaScript
-  - PHP
-  - Java
-  - C++
-  - C#
-  - Python
-  - GDScript
-  
-  ### Web Development Frameworks
-  - Laravel
-  - Bootstrap
-  - Vue.js
-
-  ### Application IDEs
-  - Godot Game Engine
-  - Apache Netbeans
-  - Android Studio
-  - Microsoft Visual Studio
-  
-  ### Database Management Systems
-  - MySQL
-
-
 ## ✨ Still trying to setup a proper Portfolio, so stay tuned! ✨
 
 <!--
